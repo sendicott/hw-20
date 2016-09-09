@@ -1,0 +1,16 @@
+#guy1 {
+    display: block;
+}
+
+#guy2 {
+    display: block;
+    border: 1px solid black;
+    background: lightgray;
+    height: 500px;
+}
+
+.pygmalion {
+    font-size: 25px;
+    color: red;
+    background-color: black;
+}
