@@ -49,7 +49,6 @@ window.addEventListener('load', function() {
         drop: function(event, ui) {
             // friends[].bestie = true;
             // friends[0].bestie = true;
-
             // console.log(this);
             // console.log(ui.draggable);
             let content = ui.draggable.text();
